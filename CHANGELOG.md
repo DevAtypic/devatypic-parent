@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Added this CHANGELOG.md
 
-[Unreleased]: https://github.com/DevAtypic/devatypic-parent...HEAD
+### Added
+- this CHANGELOG.md
+- CONTRIBUTING.md
+- .gitlab-ci.yml
+- pom.xml
+- .m2/settings.xml for GitLab
